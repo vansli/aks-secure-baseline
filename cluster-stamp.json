@@ -40,7 +40,7 @@
             }
         },
         "location": {
-            "defaultValue": "eastus2",
+            "defaultValue": "westeurope",
             "type": "string",
             "allowedValues": [
                 "centralus",
@@ -59,7 +59,7 @@
             }
         },
         "geoRedundancyLocation": {
-            "defaultValue": "centralus",
+            "defaultValue": "northeurope",
             "type": "string",
             "allowedValues": [
                 "eastus2",
